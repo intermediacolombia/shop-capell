@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractManagerRegistry.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227035161416" remote="134009407800000000" Dst="0" />
+<file name="ConnectionRegistry.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227035181481" remote="134009407800000000" Dst="0" />
+<file name="ManagerRegistry.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227035276837" remote="134009407800000000" Dst="0" />
+<file name="NotifyPropertyChanged.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227037483501" remote="134009407800000000" Dst="0" />
+<file name="ObjectManager.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227037523618" remote="134009407800000000" Dst="0" />
+<file name="ObjectManagerDecorator.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227037543693" remote="134009407800000000" Dst="0" />
+<file name="ObjectRepository.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227037563753" remote="134009407800000000" Dst="0" />
+<file name="PropertyChangedListener.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227037583825" remote="134009407800000000" Dst="0" />
+<file name="Proxy.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134009227037603892" remote="134009407800000000" Dst="0" />
+<file name="AbstractManagerRegistry.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227035161416" remote="134025011400000000" Dst="0" />
+<file name="ConnectionRegistry.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227035181481" remote="134025011400000000" Dst="0" />
+<file name="ManagerRegistry.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227035276837" remote="134025011400000000" Dst="0" />
+<file name="NotifyPropertyChanged.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227037483501" remote="134025011400000000" Dst="0" />
+<file name="ObjectManager.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227037523618" remote="134025011400000000" Dst="0" />
+<file name="ObjectManagerDecorator.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227037543693" remote="134025011400000000" Dst="0" />
+<file name="PropertyChangedListener.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227037583825" remote="134025011400000000" Dst="0" />
+<file name="ObjectRepository.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227037563753" remote="134025011400000000" Dst="0" />
+<file name="Proxy.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134009227037603892" remote="134025011400000000" Dst="0" />
+<file name="ConnectionRegistry.php" server="capellb5.com/public_html/" local="134009227035181481" remote="134032348200000000" Dst="0" />
+<file name="AbstractManagerRegistry.php" server="capellb5.com/public_html/" local="134009227035161416" remote="134032348200000000" Dst="0" />
+<file name="ManagerRegistry.php" server="capellb5.com/public_html/" local="134009227035276837" remote="134032348200000000" Dst="0" />
+<file name="ObjectManager.php" server="capellb5.com/public_html/" local="134009227037523618" remote="134032348200000000" Dst="0" />
+<file name="NotifyPropertyChanged.php" server="capellb5.com/public_html/" local="134009227037483501" remote="134032348200000000" Dst="0" />
+<file name="ObjectManagerDecorator.php" server="capellb5.com/public_html/" local="134009227037543693" remote="134032348200000000" Dst="0" />
+<file name="PropertyChangedListener.php" server="capellb5.com/public_html/" local="134009227037583825" remote="134032348200000000" Dst="0" />
+<file name="ObjectRepository.php" server="capellb5.com/public_html/" local="134009227037563753" remote="134032348200000000" Dst="0" />
+<file name="Proxy.php" server="capellb5.com/public_html/" local="134009227037603892" remote="134032348200000000" Dst="0" />
+</dwsync>

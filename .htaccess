@@ -1,0 +1,33 @@
+# Evita conflictos con MultiViews (muy común en cPanel)
+Options -MultiViews
+
+RewriteEngine On
+# Si el .htaccess está en la RAÍZ DEL PROYECTO, puedes omitir RewriteBase o usar:
+RewriteBase /
+
+# 1) Deja pasar archivos y directorios reales (CSS/JS/IMG/PHP, etc.)
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# 2) Deja pasar endpoints "acciones" sin pasar por el router
+RewriteRule ^actions/ - [L]
+
+# (Opcional) si tienes carpetas de estáticos con nombre fijo
+RewriteRule ^(assets|public|images|img|css|js|fonts|uploads|admin)/ - [L]
+
+# 3) Home
+RewriteRule ^$ index.php [L,QSA]
+
+# 4) 1 segmento => page
+RewriteRule ^([^/]+)/?$ index.php?page=$1 [L,QSA]
+
+# 5) 2 segmentos => page + slug
+RewriteRule ^([^/]+)/([^/]+)/?$ index.php?page=$1&slug=$2 [L,QSA]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php80” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php80___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

@@ -1,0 +1,13 @@
+[02-Sep-2025 14:08:18 America/Bogota] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/intermed/shop.intermediacolombia.com/admin/categories/category_edit_controller.php on line 3
+[02-Sep-2025 14:11:06 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:11:11 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:11:14 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:11:16 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:11:54 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:11:59 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:12:03 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:12:06 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:12:08 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:12:09 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:12:11 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184
+[02-Sep-2025 14:12:14 America/Bogota] PHP Warning:  Undefined variable $caja_id in /home/intermed/shop.intermediacolombia.com/admin/inc/menu.php on line 184

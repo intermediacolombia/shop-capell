@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="cart_add.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415610036502" remote="134014603200000000" Dst="0" />
+<file name="cart_update.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415611659839" remote="134014603200000000" Dst="0" />
+<file name="cart_remove.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415611063581" remote="134014603200000000" Dst="0" />
+<file name="cart_remove-item.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415610550627" remote="134014603200000000" Dst="0" />
+<file name="cart_widget.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134030826722332620" remote="134031006600000000" Dst="0" />
+<file name="checkout_process.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134031179374260030" remote="134031359400000000" Dst="0" />
+<file name="coupon_remove.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415613794311" remote="134014603200000000" Dst="0" />
+<file name="login.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415614304026" remote="134014603200000000" Dst="0" />
+<file name="logout.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415614659346" remote="134014603200000000" Dst="0" />
+<file name="mp_webhook.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415615981544" remote="134014603200000000" Dst="0" />
+<file name="mp_create_preference.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415615227800" remote="134014603200000000" Dst="0" />
+<file name="shipping_quote.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134031175927764429" remote="134031355800000000" Dst="0" />
+<file name="coupon_apply.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415613254315" remote="134014603200000000" Dst="0" />
+<file name="search_suggest.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415617378093" remote="134014603200000000" Dst="0" />
+<file name="categories_list.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415612527962" remote="134014603200000000" Dst="0" />
+<file name="search_categories.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415616886712" remote="134014603200000000" Dst="0" />
+<file name="order_stock.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415616396644" remote="134014603200000000" Dst="0" />
+<file name="mp_webhook - Copia.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415615896446" remote="134014603200000000" Dst="0" />
+<file name="shipping_quote - Copia.php" server="170.10.162.251/shop.intermediacolombia.com/" local="134014415617792744" remote="134014603200000000" Dst="0" />
+<file name="mp_webhook.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134019363400806364" remote="134019543000000000" Dst="0" />
+<file name="clear_cart.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134019370267843009" remote="134019550200000000" Dst="0" />
+<file name="checkout_process.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134020931627297347" remote="134021111400000000" Dst="0" />
+<file name="cart_add.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415610036502" remote="134021111400000000" Dst="0" />
+<file name="cart_remove-item.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415610550627" remote="134021111400000000" Dst="0" />
+<file name="cart_update.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415611659839" remote="134021111400000000" Dst="0" />
+<file name="cart_remove.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415611063581" remote="134021111400000000" Dst="0" />
+<file name="cart_widget.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134020931623716509" remote="134021111400000000" Dst="0" />
+<file name="categories_list.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415612527962" remote="134021111400000000" Dst="0" />
+<file name="coupon_apply.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134020931550275285" remote="134021111400000000" Dst="0" />
+<file name="coupon_remove.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415613794311" remote="134021111400000000" Dst="0" />
+<file name="login.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415614304026" remote="134021111400000000" Dst="0" />
+<file name="logout.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415614659346" remote="134021111400000000" Dst="0" />
+<file name="mp_create_preference.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415615227800" remote="134021111400000000" Dst="0" />
+<file name="mp_webhook - Copia.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415615896446" remote="134021111400000000" Dst="0" />
+<file name="order_stock.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415616396644" remote="134021111400000000" Dst="0" />
+<file name="search_categories.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415616886712" remote="134021111400000000" Dst="0" />
+<file name="search_suggest.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415617378093" remote="134021111400000000" Dst="0" />
+<file name="shipping_quote - Copia.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415617792744" remote="134021111400000000" Dst="0" />
+<file name="shipping_quote.php" server="170.10.164.133/shop.intermediacolombia.com/" local="134014415618091006" remote="134021111400000000" Dst="0" />
+<file name="cart_add.php" server="capellb5.com/public_html/" local="134014415610036502" remote="134032345800000000" Dst="0" />
+<file name="cart_update.php" server="capellb5.com/public_html/" local="134014415611659839" remote="134032345800000000" Dst="0" />
+<file name="cart_widget.php" server="capellb5.com/public_html/" local="134030826722332620" remote="134032345800000000" Dst="0" />
+<file name="cart_remove.php" server="capellb5.com/public_html/" local="134014415611063581" remote="134032345800000000" Dst="0" />
+<file name="cart_remove-item.php" server="capellb5.com/public_html/" local="134014415610550627" remote="134032345800000000" Dst="0" />
+<file name="categories_list.php" server="capellb5.com/public_html/" local="134014415612527962" remote="134032345800000000" Dst="0" />
+<file name="clear_cart.php" server="capellb5.com/public_html/" local="134019370267843009" remote="134032345800000000" Dst="0" />
+<file name="checkout_process.php" server="capellb5.com/public_html/" local="134031179374260030" remote="134032345800000000" Dst="0" />
+<file name="coupon_apply.php" server="capellb5.com/public_html/" local="134020931550275285" remote="134032345800000000" Dst="0" />
+<file name="login.php" server="capellb5.com/public_html/" local="134014415614304026" remote="134032345800000000" Dst="0" />
+<file name="coupon_remove.php" server="capellb5.com/public_html/" local="134014415613794311" remote="134032345800000000" Dst="0" />
+<file name="logout.php" server="capellb5.com/public_html/" local="134014415614659346" remote="134032345800000000" Dst="0" />
+<file name="mp_create_preference.php" server="capellb5.com/public_html/" local="134014415615227800" remote="134032345800000000" Dst="0" />
+<file name="mp_webhook - Copia.php" server="capellb5.com/public_html/" local="134014415615896446" remote="134032345800000000" Dst="0" />
+<file name="mp_webhook.php" server="capellb5.com/public_html/" local="134019363400806364" remote="134032345800000000" Dst="0" />
+<file name="order_stock.php" server="capellb5.com/public_html/" local="134014415616396644" remote="134032345800000000" Dst="0" />
+<file name="search_suggest.php" server="capellb5.com/public_html/" local="134014415617378093" remote="134032345800000000" Dst="0" />
+<file name="search_categories.php" server="capellb5.com/public_html/" local="134014415616886712" remote="134032345800000000" Dst="0" />
+<file name="shipping_quote - Copia.php" server="capellb5.com/public_html/" local="134014415617792744" remote="134032345800000000" Dst="0" />
+<file name="shipping_quote.php" server="capellb5.com/public_html/" local="134031175927764429" remote="134032345800000000" Dst="0" />
+</dwsync>
